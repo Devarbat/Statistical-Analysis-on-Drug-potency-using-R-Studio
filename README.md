@@ -146,6 +146,8 @@ length(sim.median.diff[sim.median.diff<=obs.median.diff])/nsim
 Output:
 
 ![image_3](https://github.com/Devarbat/Statistical-Analysis-on-Drug-potency-using-R-Studio/blob/29240eea75b1f5d28223ebdf39c1228c37aa36b8/Histogram.png)
+Histogram
+
 [1] 0.00143
 
 ### 3. Findings
